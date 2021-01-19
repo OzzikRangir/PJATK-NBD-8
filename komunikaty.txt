@@ -1,0 +1,6 @@
+STORED key vodka: {'name': 'Vodka', 'type': 'drink', 'weight': 0.7, 'price': 21.37}
+GET key vodka: {'name': 'Vodka', 'type': 'drink', 'weight': 0.7, 'price': 21.37}
+UPDATE key vodka: {'name': 'Vodka', 'type': 'drink', 'weight': 0.7, 'price': 21.37, 'prize': 32.8}
+GET key vodka: {'name': 'Vodka', 'type': 'drink', 'weight': 0.7, 'price': 21.37, 'prize': 32.8}
+DELETE key vodka
+GET key vodka: None
